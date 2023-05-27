@@ -1,1 +1,1 @@
-This is file 2.txt for branching..
+This is file 2.txt for branching Version 2..
